@@ -54,7 +54,7 @@
 <![endif]-->
 
 </head>
-<body style="overflow:hidden ;">
+<body style="overflow:hidden;">
     <div id="loading"> 
 
      <script type = "text/javascript"> 
@@ -180,7 +180,7 @@ echo $this->Html->script(array('jquery.js', 'jquery.tools.min.js', 'jquery.unifo
 
    
    
-  >
+  
 </body>
 
 </html>
